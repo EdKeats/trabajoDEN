@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dato">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato.suo">
+</Property><Property Name="Date" Value="sábado, 2 de mayo de 2015">
+</Property><Property Name="Time" Value="13:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dato.sln" Description="La copia C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Dato.suo" Description="La copia C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\Dato.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato\Dato.csproj">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\Class1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\MotorXML.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato\MotorXML.cs">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\BD.xml" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Backup\Dato\BD.xml">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\Dato.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Dato" Source="Dato\Dato.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dato.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Dato.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dato" Source="Dato\Dato.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

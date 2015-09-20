@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MotorXML</name>
+    </assembly>
+    <members>
+        <member name="M:Dato.MotorXML.leeXMLArchivo(System.String)">
+            <summary>
+            Lee Archivo xml y lo carga en propiedad XDoc, la que mantiene el documento XML
+            </summary>
+            <param name="ruta">Ruta al archivo xml</param>
+        </member>
+        <member name="M:Dato.MotorXML.GuardarXMLArchivo(System.String)">
+            <summary>
+            Almacena los cambios realizados en el documento en la ruta especificada
+            </summary>
+            <param name="ruta">Ruta al Archivo XML</param>
+        </member>
+        <member name="M:Dato.MotorXML.AgregarObjeto(System.Object,System.String,System.String)">
+            <summary>
+            Agrega objeto al Archivo XML cargado anteriormente.
+            </summary>
+            <param name="o">objeto a almacenar</param>
+            <param name="strPropiedadIdentidad">Cadena de texto con el nombre de la propiedad del objeto que es utilizado como identidad o codigo</param>
+            <param name="strAtributoIdentidad">Cadena de texto con el nombre del Atributo del nodo Datos que posee y almacena la ultima identidad creada</param>
+        </member>
+        <member name="M:Dato.MotorXML.Buscar(System.String,System.String,System.Object)">
+            <summary>
+            Busca un objeto en el archivo xml cargado previamente.
+            </summary>
+            <param name="strValorBuscado">Cadena de texto con el valor del campo buscado</param>
+            <param name="strPropiedad">Cadena de texto con el nombre de la propiedad buscada</param>
+            <param name="TipoDevuelto">Objeto con estado inicial, el cual será devuelto con datos</param>
+            <returns>Devuelve objeto con datos desde xml, es del mismo tipo que en TipoDevuelto</returns>
+        </member>
+        <member name="M:Dato.MotorXML.BuscarTodos(System.Object)">
+            <summary>
+            Construye un Array List con 
+            </summary>
+            <param name="TipoDevuelto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

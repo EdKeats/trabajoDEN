@@ -1,0 +1,8 @@
+c:\users\alan\documents\visual studio 2010\Projects\Web_Botilleria\Web_Botilleria\bin\Web_Botilleria.dll
+c:\users\alan\documents\visual studio 2010\Projects\Web_Botilleria\Web_Botilleria\bin\Web_Botilleria.pdb
+c:\users\alan\documents\visual studio 2010\Projects\Web_Botilleria\Web_Botilleria\obj\Debug\Web_Botilleria.dll
+c:\users\alan\documents\visual studio 2010\Projects\Web_Botilleria\Web_Botilleria\obj\Debug\Web_Botilleria.pdb
+C:\Users\Wyrm\Documents\GitHub\Web_Botilleria\Web_Botilleria\bin\Web_Botilleria.dll
+C:\Users\Wyrm\Documents\GitHub\Web_Botilleria\Web_Botilleria\bin\Web_Botilleria.pdb
+C:\Users\Wyrm\Documents\GitHub\Web_Botilleria\Web_Botilleria\obj\Debug\Web_Botilleria.dll
+C:\Users\Wyrm\Documents\GitHub\Web_Botilleria\Web_Botilleria\obj\Debug\Web_Botilleria.pdb

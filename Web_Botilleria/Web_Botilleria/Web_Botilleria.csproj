@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{608B172C-E00E-4E5A-9B8B-708661523915}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web_Botilleria</RootNamespace>
+    <AssemblyName>Web_Botilleria</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AgregarNuevoProducto.aspx" />
+    <Content Include="ConsultarProductoAdministrador.aspx" />
+    <Content Include="ConsultarProductoVendedor.aspx" />
+    <Content Include="css\ie\html5shiv.js" />
+    <Content Include="css\ie\PIE.htc" />
+    <Content Include="css\ie\v8.css" />
+    <Content Include="css\ie\v9.css" />
+    <Content Include="css\images\img01.png" />
+    <Content Include="css\images\img02.png" />
+    <Content Include="css\images\img03.png" />
+    <Content Include="css\images\img04.jpg" />
+    <Content Include="css\images\img05.jpg" />
+    <Content Include="css\images\img06.jpg" />
+    <Content Include="css\images\mobileUI-site-nav-opener-bg.svg" />
+    <Content Include="css\images\overlay.png" />
+    <Content Include="css\images\spacer.gif" />
+    <Content Include="css\images\toggle.svg" />
+    <Content Include="css\skel-noscript.css" />
+    <Content Include="css\style-1000px.css" />
+    <Content Include="css\style-desktop.css" />
+    <Content Include="css\style-mobile.css" />
+    <Content Include="css\style.css" />
+    <Content Include="EliminarProducto.aspx" />
+    <Content Include="images\add_carro.png" />
+    <Content Include="images\bt_agregar_al_carro.gif" />
+    <Content Include="images\header2.jpg" />
+    <Content Include="images\header.jpg" />
+    <Content Include="images\icono_Curso-Gestion-Stock-Control-Almacen.png" />
+    <Content Include="images\trash.jpg" />
+    <Content Include="InicioAdministrador.aspx" />
+    <Content Include="InicioVendedor.aspx" />
+    <Content Include="js\html5shiv.js" />
+    <Content Include="js\init.js" />
+    <Content Include="js\skel-panels.min.js" />
+    <Content Include="js\skel.min.js" />
+    <Content Include="ModificarStock.aspx" />
+    <Content Include="VentaAdministrador.aspx" />
+    <Content Include="VentaVendedor.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarNuevoProducto.aspx.cs">
+      <DependentUpon>AgregarNuevoProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AgregarNuevoProducto.aspx.designer.cs">
+      <DependentUpon>AgregarNuevoProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarProductoAdministrador.aspx.cs">
+      <DependentUpon>ConsultarProductoAdministrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultarProductoAdministrador.aspx.designer.cs">
+      <DependentUpon>ConsultarProductoAdministrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarProductoVendedor.aspx.cs">
+      <DependentUpon>ConsultarProductoVendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultarProductoVendedor.aspx.designer.cs">
+      <DependentUpon>ConsultarProductoVendedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarProducto.aspx.cs">
+      <DependentUpon>EliminarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EliminarProducto.aspx.designer.cs">
+      <DependentUpon>EliminarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InicioAdministrador.aspx.cs">
+      <DependentUpon>InicioAdministrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InicioAdministrador.aspx.designer.cs">
+      <DependentUpon>InicioAdministrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InicioVendedor.aspx.cs">
+      <DependentUpon>InicioVendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InicioVendedor.aspx.designer.cs">
+      <DependentUpon>InicioVendedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InterfazAdministrador.Master.cs">
+      <DependentUpon>InterfazAdministrador.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InterfazAdministrador.Master.designer.cs">
+      <DependentUpon>InterfazAdministrador.Master</DependentUpon>
+    </Compile>
+    <Compile Include="InterfazVendedor.Master.cs">
+      <DependentUpon>InterfazVendedor.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InterfazVendedor.Master.designer.cs">
+      <DependentUpon>InterfazVendedor.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarStock.aspx.cs">
+      <DependentUpon>ModificarStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModificarStock.aspx.designer.cs">
+      <DependentUpon>ModificarStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentaAdministrador.aspx.cs">
+      <DependentUpon>VentaAdministrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentaAdministrador.aspx.designer.cs">
+      <DependentUpon>VentaAdministrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentaVendedor.aspx.cs">
+      <DependentUpon>VentaVendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentaVendedor.aspx.designer.cs">
+      <DependentUpon>VentaVendedor.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="InterfazVendedor.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="InterfazAdministrador.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="paginas\administracion\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51992</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

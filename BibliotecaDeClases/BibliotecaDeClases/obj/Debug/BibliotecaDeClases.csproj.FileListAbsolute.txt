@@ -1,0 +1,4 @@
+C:\Users\cetecom\Desktop\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\cetecom\Desktop\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\cetecom\Desktop\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\cetecom\Desktop\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

@@ -1,0 +1,23 @@
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato\bin\Debug\Dato.dll
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato\bin\Debug\Dato.pdb
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato\obj\Debug\Dato.dll
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato\obj\Debug\Dato.pdb
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato\Dato\obj\Debug\Dato.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato - copia (2)\Dato\bin\Debug\Dato.dll
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato - copia (2)\Dato\bin\Debug\Dato.pdb
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato - copia (2)\Dato\obj\Debug\Dato.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato - copia (2)\Dato\obj\Debug\Dato.dll
+C:\Users\Alexis\Documents\Visual Studio 2008\Projects\Dato - copia (2)\Dato\obj\Debug\Dato.pdb
+E:\Dato - copia (2)\Dato\bin\Debug\Dato.dll
+E:\Dato - copia (2)\Dato\bin\Debug\Dato.pdb
+E:\Dato - copia (2)\Dato\obj\Debug\Dato.csprojResolveAssemblyReference.cache
+E:\Dato - copia (2)\Dato\obj\Debug\Dato.dll
+E:\Dato - copia (2)\Dato\obj\Debug\Dato.pdb
+C:\Users\cetecom\Downloads\Proyecto MotorXML\Dato\bin\Debug\Dato.dll
+C:\Users\cetecom\Downloads\Proyecto MotorXML\Dato\bin\Debug\Dato.pdb
+C:\Users\cetecom\Downloads\Proyecto MotorXML\Dato\obj\Debug\Dato.dll
+C:\Users\cetecom\Downloads\Proyecto MotorXML\Dato\obj\Debug\Dato.pdb
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\bin\Debug\Dato.dll
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\bin\Debug\Dato.pdb
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\obj\Debug\Dato.dll
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\obj\Debug\Dato.pdb

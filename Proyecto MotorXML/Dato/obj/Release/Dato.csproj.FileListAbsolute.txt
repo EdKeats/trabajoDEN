@@ -1,0 +1,4 @@
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\bin\Release\Dato.dll
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\bin\Release\Dato.pdb
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\obj\Release\Dato.dll
+C:\Users\Wyrm\Documents\Proyecto MotorXML\Dato\obj\Release\Dato.pdb
